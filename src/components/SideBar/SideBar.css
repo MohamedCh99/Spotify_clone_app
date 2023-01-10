@@ -1,0 +1,13 @@
+.sidebar {
+  border: 1px solid black;
+  flex: 0.2;
+  min-width: 230px;
+  padding: 0 10px;
+  background-color: black;
+  color: white;
+}
+
+.sidebar__logo {
+  height: 70px;
+  padding: 10px;
+}
